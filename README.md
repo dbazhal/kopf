@@ -33,6 +33,7 @@ and the operators containing the domain logic (with no or minimal infrastructure
 See [examples](https://github.com/zalando-incubator/kopf/tree/master/examples)
 for the examples of the typical use-cases.
 
+
 The minimalistic operator can look like this:
 
 ```python
